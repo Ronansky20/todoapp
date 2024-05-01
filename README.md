@@ -2,7 +2,7 @@
 ## THIS APP IS SUPPOSED TO BE VIEWED ON MOBILE, ON PC IT WILL NOT LOOK AS GOOD (but it will still function)
 
 ## Resources:
-UI: [Place UI Design Here](https://github.com/Ronansky20/todoapp)
+UI: [todo list App by Nahid Abdali](https://www.figma.com/community/file/1151456012696684083/todo-list-app?searchSessionId=lvnvqvup-zxr6xjz4o0h)
 Framework: [NextJS](https://nextjs.org)
 Hosting: [Vercel](https://vercel.com/)
 
